@@ -18,7 +18,7 @@ If you are on a Mac, hit `cmd+shift+C`
 
 Just select the category & response and it will automatically insert the code at the current cursor position
 
-That's it!
+That's it
 
 ## Update Log
 

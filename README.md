@@ -1,6 +1,6 @@
 # Status()
 
-Static() allows to insert HTML response codes without leaving your editor!
+Status() allows to insert HTTP response codes without leaving your editor!
 
 ## Install
 

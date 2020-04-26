@@ -1,9 +1,14 @@
 # Change Log
 
-All notable changes to the "status" extension will be documented in this file.
+## [1.0.1]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### Fixed
 
-## [Unreleased]
+- Fix typos inside README
+- Fix CHANGELOG to reflect changes
 
-- Initial release
+## [1.0.0]
+
+### Added
+
+- Add Insert Status Command

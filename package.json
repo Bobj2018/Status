@@ -2,7 +2,7 @@
 	"name": "status",
 	"displayName": "Status()",
 	"description": "A simple extension that displays all status codes",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"publisher": "Bobj2018",
 	"repository": {
 		"type": "git",
